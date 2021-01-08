@@ -101,11 +101,11 @@ section .btntwo{
 }
 
 @keyframes changetext{
-	0% {content: "'CHHATTISGARH'"; }
+	0% {content: "'KARNATAKA'"; }
     20% {content: "'KARNATAKA'"; }
-    35% {content: "'MAHARASHTRA'"; }
-    60% {content: "'TAMILNADU'"; }
-    80% {content: "'GUJRAT'"; }
-    100% {content: "'ANDHRAPRADESH'"; }
+    35% {content: "'KARNATAKA'"; }
+    60% {content: "'KARNATAKA'"; }
+    80% {content: "'KARNATAKA'"; }
+    100% {content: "'KARNATAKA'"; }
 }
 
